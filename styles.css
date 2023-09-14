@@ -1,0 +1,10 @@
+.design {
+    width: 500px;
+    height: 200px;
+    border-radius: 20px;
+    
+}
+
+body {
+    background-color: rgb(202, 204, 204);
+}
